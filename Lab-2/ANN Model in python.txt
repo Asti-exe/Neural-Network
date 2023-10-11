@@ -1,0 +1,1 @@
+Write a python program to design an ANN model in python, with given input nodes, hidden lodes and output nodes
