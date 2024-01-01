@@ -1,5 +1,5 @@
 #WAP to fetch data from csv file and display in a table without libraries
-filename = 'F:/CyberHub/Neural Network/Lab-1/industry.csv'
+filename = 'industry.csv'
 
 # Open the file
 with open(filename, 'r') as file:
